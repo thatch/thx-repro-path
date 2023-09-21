@@ -1,0 +1,2 @@
+[tool.thx.jobs]
+test = "python -m unittest"
